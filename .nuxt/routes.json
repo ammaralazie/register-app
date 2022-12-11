@@ -1,0 +1,58 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\vue porject\\\\oldVersion\\\\register-app\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_700fbc44"
+  },
+  {
+    "name": "orders",
+    "path": "/orders",
+    "component": "D:\\\\vue porject\\\\oldVersion\\\\register-app\\\\pages\\\\orders\\\\index.vue",
+    "chunkName": "pages/orders/index",
+    "_name": "_4ac3fb7c"
+  },
+  {
+    "name": "reports",
+    "path": "/reports",
+    "component": "D:\\\\vue porject\\\\oldVersion\\\\register-app\\\\pages\\\\reports\\\\index.vue",
+    "chunkName": "pages/reports/index",
+    "_name": "_591897e4"
+  },
+  {
+    "name": "students",
+    "path": "/students",
+    "component": "D:\\\\vue porject\\\\oldVersion\\\\register-app\\\\pages\\\\students\\\\index.vue",
+    "chunkName": "pages/students/index",
+    "_name": "_03c29e6f"
+  },
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "D:\\\\vue porject\\\\oldVersion\\\\register-app\\\\pages\\\\users\\\\index.vue",
+    "chunkName": "pages/users/index",
+    "_name": "_0a4e54e5"
+  },
+  {
+    "name": "students-add",
+    "path": "/students/add",
+    "component": "D:\\\\vue porject\\\\oldVersion\\\\register-app\\\\pages\\\\students\\\\add\\\\index.vue",
+    "chunkName": "pages/students/add/index",
+    "_name": "_7c9ecec4"
+  },
+  {
+    "name": "students-profile-id",
+    "path": "/students/profile/:id?",
+    "component": "D:\\\\vue porject\\\\oldVersion\\\\register-app\\\\pages\\\\students\\\\profile\\\\_id.vue",
+    "chunkName": "pages/students/profile/_id",
+    "_name": "_737ce4a4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\vue porject\\\\oldVersion\\\\register-app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_035f0272"
+  }
+]
